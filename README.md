@@ -8,6 +8,12 @@
         │   │   ├── Images
         │   │   ├── Labels
         ├── potsdam (the same with vaihingen)
+        ├── model
+        │   ├── CTFuse
+        ├── my_dataset.py
+        ├── train.py
+        ├── transforms.py
+        ├── utils.py
 
 
 
